@@ -15,5 +15,22 @@
      "nama": "Adi Mertajaya",
      "status": "Belum"
     }
+  ],
+  "kk": [
+    {
+     "id": "5151",
+     "nama": "I Putu Sudarma",
+     "status": "Sudah"
+    },
+    {
+     "id": "5152",
+     "nama": "I Dewa Gede Sukrasena",
+     "status": "Sudah"
+    },
+    {
+     "id": "5153",
+     "nama": "Adi Mertajaya",
+     "status": "Belum"
+    }
   ]
 }
